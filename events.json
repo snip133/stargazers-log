@@ -1,0 +1,34 @@
+[
+  {
+    "repo": "microsoft/vscode",
+    "name": "Visual Studio Code",
+    "description": "Code editing. Redefined.",
+    "language": "TypeScript",
+    "stars": 167000,
+    "starredAt": "2026-08-28"
+  },
+  {
+    "repo": "github/docs",
+    "name": "GitHub Docs",
+    "description": "The open-source repo for GitHub's documentation.",
+    "language": "JavaScript",
+    "stars": 16000,
+    "starredAt": "2026-08-21"
+  },
+  {
+    "repo": "denoland/deno",
+    "name": "Deno",
+    "description": "A secure runtime for JavaScript and TypeScript.",
+    "language": "Rust",
+    "stars": 102000,
+    "starredAt": "2026-08-14"
+  },
+  {
+    "repo": "moby/moby",
+    "name": "Docker Engine",
+    "description": "The open source container engine.",
+    "language": "Go",
+    "stars": 71000,
+    "starredAt": "2026-08-04"
+  }
+]
